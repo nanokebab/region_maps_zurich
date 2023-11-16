@@ -1,4 +1,4 @@
-# Visualizing Urban Data
-A trial project aiming to visualize spacial data using open governmet data shapefiles.
+# Region maps with Geopandas
+An exercise in visualizing governmental geodata.
 
-<img src="results/test.png" alt="failed" style="width: 400px;"/>
+![alt text](https://github.com/nanokebab/visualizing_urban_data/blob/main/src/folium_map.png?raw=true)
